@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array/>
+				<key>ServerURL</key>
+				<string>https://api.khoindvn.eu.org/fSfJEA</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures DNS over HTTPS</string>
+			<key>PayloadDisplayName</key>
+			<string>Custom DNS</string>
+			<key>PayloadIdentifier</key>
+			<string>com.example.dns.1FB8CE3B-9247-4109-8B58-3FD41F767381</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>1FB8CE3B-9247-4109-8B58-3FD41F767381</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>FullScreen</key>
+			<false/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>QuangDung</string>
+			<key>PayloadDescription</key>
+			<string>Web Clip shortcut</string>
+			<key>PayloadDisplayName</key>
+			<string>QuangDung Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.example.webclip.DCED5D60-5637-46EA-9BFF-AB6EDC8BE7E5</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>DCED5D60-5637-46EA-9BFF-AB6EDC8BE7E5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://quangdung.netlify.app</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Chặn thu hồi chứng chỉ iOS</string>
+	<key>PayloadDisplayName</key>
+	<string>Dũng đẹp trai nhất thế giới</string>
+	<string>CAKE Bank: 0777554486 </string>
+	<key>PayloadIdentifier</key>
+	<string>com.example.profile.100FC12D-2624-4D10-9A55-BB5140E264AD</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>100FC12D-2624-4D10-9A55-BB5140E264AD</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
